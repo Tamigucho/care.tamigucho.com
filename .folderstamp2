@@ -1,0 +1,72 @@
+This folder: /media/daniella/B/git/Tamigucho/Sites/subdomains/care
+
+  File: ./breedadd.svg
+  Size: 434       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4192142     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 13:22:21.779286800 -0300
+Modify: 2023-08-24 02:29:56.782772200 -0300
+Change: 2023-08-24 13:22:21.547270100 -0300
+ Birth: 2023-08-24 13:22:21.547270100 -0300
+IPFS hash: QmUxwXdSwVaUxiU9gBpxMD7jmeR3NvvvodKGA4GWVvbLYm
+------------------------------
+  File: ./breedresult.png
+  Size: 114320    	Blocks: 224        IO Block: 4096   regular file
+Device: 8,20	Inode: 4192143     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 13:22:21.839291200 -0300
+Modify: 2023-08-24 02:27:00.163058800 -0300
+Change: 2023-08-24 13:22:21.551270400 -0300
+ Birth: 2023-08-24 13:22:21.547270100 -0300
+IPFS hash: QmbZt35mtaSTtQiFbLL9vDTXDpoxopyM4HQAqrQPoUGRRP
+------------------------------
+  File: ./Care2.png
+  Size: 1519835   	Blocks: 2976       IO Block: 4096   regular file
+Device: 8,20	Inode: 4192145     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 13:22:22.063307300 -0300
+Modify: 2023-08-23 19:19:11.965818400 -0300
+Change: 2023-08-24 13:22:21.839291200 -0300
+ Birth: 2023-08-24 13:22:21.839291200 -0300
+IPFS hash: QmR2B12D6U7FQKHUkRk7hgpGnj6x9evCcwR1pXENk22LR1
+------------------------------
+  File: ./Care.png
+  Size: 1073736   	Blocks: 2104       IO Block: 4096   regular file
+Device: 8,20	Inode: 4192144     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 13:22:22.183316000 -0300
+Modify: 2023-08-23 19:10:21.744998500 -0300
+Change: 2023-08-24 13:22:21.835290900 -0300
+ Birth: 2023-08-24 13:22:21.831290600 -0300
+IPFS hash: QmbLfSdK1LgHxomjnJPmf4gQVHhYvjf3MJ9mzwVCyb3sxT
+------------------------------
+  File: ./CNAME
+  Size: 19        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4191740     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-23 20:53:33.596129900 -0300
+Modify: 2023-08-23 20:45:22.573548800 -0300
+Change: 2023-08-23 20:45:22.573548800 -0300
+ Birth: 2023-08-23 20:45:22.569549900 -0300
+IPFS hash: QmVPP2AU2ncnaQFA73f9tgvAc5H3r7bijFr1vpMyuoFrve
+------------------------------
+  File: ./index.html
+  Size: 1928      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 4191926     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-23 21:17:52.929060100 -0300
+Modify: 2023-08-23 21:17:48.948986800 -0300
+Change: 2023-08-23 21:17:48.952986900 -0300
+ Birth: 2023-08-23 21:17:48.936986600 -0300
+IPFS hash: QmZ33rMgRouwFHzgxA8CbPnGeUDxfKbBcKr9LEp8CsG9PM
+------------------------------
+  File: ./Untitled Folder
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4192147     Links: 1
+Access: (0775/drwxrwxr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-08-24 13:26:33.210292700 -0300
+Modify: 2023-08-24 13:26:33.210292700 -0300
+Change: 2023-08-24 13:26:33.210292700 -0300
+ Birth: 2023-08-24 13:26:33.210292700 -0300
+IPFS hash: 
+------------------------------
